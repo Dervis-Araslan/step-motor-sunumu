@@ -1,5 +1,7 @@
-import StepMotorProject from './components/RoadmapPresentation';
-import './styles/App.css';
+import React from 'react';
+import StepMotorProject from './components/StepMotorProject';
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import './styles/index.css';
 
 function App() {
   return (
